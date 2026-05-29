@@ -1,6 +1,6 @@
 # ASD-Learning-Companion
 
-#  ASD Learning Game
+
 
 An educational game for children with Autism Spectrum Disorder (ASD) 
 to improve basic learning skills through fun interaction.
